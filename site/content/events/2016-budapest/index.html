@@ -10,7 +10,9 @@ dirty: true
 <% @eventhome = @page.directory.split(File::SEPARATOR)[0..1].join(File::SEPARATOR) %>
 <!-- Photo is from here: https://pixabay.com/p-79247/?no_redirect . Size: 640 x 432-->
 <center>
-        <img border=0 width="320" height="216" src="images/bp.jpg">
+	<div style="box-shadow: inset 0 0 100px #ffffff; border-radius: 100px;">
+        <img src="images/bp.jpg" style="width: 100%; z-index: -1; position: relative; border-radius: 100px;">
+	</div>
 <br><br>
 <div align="center">
 <h2><strong>DevOpsDays is coming to <%= render(:partial => "/#{@eventhome}/_target_location") %>! </h2></strong>
