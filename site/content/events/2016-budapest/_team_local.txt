@@ -1,5 +1,6 @@
 - Zoltan Nagy <abesto@prezi.com>
 - Zsolt Dollenstein <zsolt.dollenstein@prezi.com>
-- Mate Gulyas <gulyasm@enbritely.com>
+- Mate Gulyas <gulyasm@enbrite.ly>
+- Peter Csizsek <csizsek@enbrite.ly>
 - Julianna Gobolos-Szabo <gobolos.szabo.julianna@gmail.com>
 
